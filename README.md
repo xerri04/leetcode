@@ -1,3 +1,3 @@
 # LeetCode
 
-A compilation of my leetcode practices.
+A compilation of my LeetCode practices.
